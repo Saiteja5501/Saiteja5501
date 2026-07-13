@@ -1,118 +1,56 @@
-<!-- =========================== HEADER =========================== -->
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=250&section=header&text=Saiteja%20Chippada&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Saiteja%20Chippada&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Java%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saiteja5501&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Saiteja5501?label=Followers&style=for-the-badge&color=0ea5e9"/>
-  <img src="https://img.shields.io/github/stars/Saiteja5501?affiliations=OWNER&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=Saiteja5501&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Node.js+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
-</p>
 
-<h3 align="center">
-Building scalable web applications with modern UI, secure backend architecture and clean code.
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=38BDF8&lines=Software+Engineer;Java+Full+Stack+Developer;React+Developer;Node.js+Developer;Spring+Boot+Developer;Always+Learning+New+Technologies"/>
+
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 B.Tech in Computer Science Engineering
+🎓 B.Tech Computer Science Engineering Graduate
 
-💻 Passionate Software Engineer specializing in Java Full Stack Development
+💻 Passionate Java Full Stack Developer
 
-⚛️ Experienced in building responsive frontend applications using React
+⚛️ React & Node.js Developer
 
-☕ Developing secure backend applications with Spring Boot, Node.js & Express
-
-🗄️ Skilled in designing relational databases using MySQL
+☕ Spring Boot Enthusiast
 
 🌱 Currently Learning
 
-- Spring Security
+- Spring Boot
 - Docker
 - AWS
-- Microservices
 - System Design
+- Microservices
+
+🎯 Goal
+
+Become a Software Engineer building scalable enterprise applications.
 
 📍 Hyderabad, India
-
-🎯 Career Goal
-
-To become a Software Engineer building enterprise-scale applications and solving real-world problems using modern technologies.
 
 <br><br>
 
 ---
 
-# 🚀 Current Focus
-
-✔ Building Full Stack Applications
-
-✔ Learning Cloud Technologies
-
-✔ Improving DSA & Problem Solving
-
-✔ Exploring System Design
-
-✔ Creating Production Ready Projects
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Languages
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
-
-</p>
-
----
-
-### ⚛️ Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-
-</p>
-
----
-
-### ☕ Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-
-</p>
-
----
-
-### 🗄 Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
----
-
-### 🛠 Tools & Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,js,html,css,git,github,vscode,postman,docker&perline=8"/>
 
 </p>
 
@@ -126,22 +64,23 @@ To become a Software Engineer building enterprise-scale applications and solving
 
 <td width="50%">
 
-## 🏥 Online Medical Services
+### 🏥 Online Medical Services
 
-A comprehensive healthcare management platform with multiple user roles.
+✔ Admin Dashboard
 
-### Features
+✔ Doctor Module
 
-- 👨‍⚕️ Doctor Dashboard
-- 🧑‍💼 Admin Dashboard
-- 👤 Patient Dashboard
-- 💊 Pharmacist Module
-- 📅 Appointment Booking
-- 📋 Medical History
-- 💉 Prescriptions
-- 📁 Reports Upload
+✔ Patient Module
 
-### Tech Stack
+✔ Pharmacist Module
+
+✔ Appointment Booking
+
+✔ Medical Reports
+
+✔ E-Prescription
+
+**Tech Stack**
 
 React • Node.js • Express • MySQL
 
@@ -149,20 +88,19 @@ React • Node.js • Express • MySQL
 
 <td width="50%">
 
-## ✅ Task Manager Application
+### ✅ Task Manager Application
 
-Modern task management application with authentication.
+✔ Authentication
 
-### Features
+✔ CRUD Operations
 
-- User Login
-- Secure Authentication
-- CRUD Operations
-- Dashboard
-- REST APIs
-- Responsive Design
+✔ Dashboard
 
-### Tech Stack
+✔ JWT Security
+
+✔ REST APIs
+
+**Tech Stack**
 
 React • Node.js • Express • MySQL
 
@@ -174,17 +112,17 @@ React • Node.js • Express • MySQL
 
 <td colspan="2">
 
-## 🛡 Smart Detection of Malicious Emails & URLs
+### 🛡 Smart Detection of Malicious Emails & URLs
 
-AI-powered phishing detection system using machine learning and NLP.
+✔ NLP
 
-### Features
+✔ Machine Learning
 
-- Email Analysis
-- URL Detection
-- Threat Classification
-- Machine Learning
-- NLP Processing
+✔ Email Analysis
+
+✔ URL Classification
+
+✔ Threat Detection
 
 </td>
 
@@ -198,7 +136,7 @@ AI-powered phishing detection system using machine learning and NLP.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Saiteja5501&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Saiteja5501&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiteja5501&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -216,12 +154,82 @@ AI-powered phishing detection system using machine learning and NLP.
 
 ---
 
-# 📈 Coding Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saiteja5501&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiteja5501&theme=tokyo-night"/>
 
 </p>
 
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saiteja5501&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+🏅 Salesforce Certified AI Associate
+
+🏅 Automation Anywhere RPA Professional
+
+🏅 Red Hat Enterprise Application Development
+
+🏅 Aviatrix Certified Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Saiteja5501">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+```java
+while(success == false){
+    Learn();
+    Build();
+    Improve();
+}
+```
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
