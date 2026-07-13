@@ -1,4 +1,9 @@
-<!-- Banner -->
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saiteja5501&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+</p>
+
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Saiteja Chippada</h1>
 
 <h3 align="center">
@@ -6,11 +11,11 @@
 </h3>
 
 <p align="center">
-Building scalable web applications with clean UI and efficient backend architecture.
+Building scalable web applications with clean UI, modern frontend experiences, and efficient backend architecture.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Node.js+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -23,36 +28,91 @@ Building scalable web applications with clean UI and efficient backend architect
 
 💻 Passionate Java Full Stack Developer
 
+🚀 Interested in Backend Development & Cloud
+
 🌱 Currently learning
 
 - Spring Boot
-- System Design
 - REST APIs
-- Cloud Basics
+- System Design
+- Docker
+- AWS Basics
 
 📍 Hyderabad, India
 
 🎯 Goal
 
-Become a Software Engineer building enterprise applications.
+Build enterprise-grade applications and become a Software Engineer at a product-based company.
 
 <br><br>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,js,html,css,git,github,vscode,postman&perline=7" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Online Medical Services
+
+✔ Role-Based Authentication
+
+✔ Doctor, Patient, Pharmacist & Admin Modules
+
+✔ Appointment Booking
+
+✔ Medical Reports
+
+✔ E-Prescription
+
+**Tech Stack**
+
+React • Node.js • Express • MySQL
+
+---
+
+## ✅ Task Manager Application
+
+✔ Authentication
+
+✔ CRUD Operations
+
+✔ Responsive Dashboard
+
+✔ Secure Backend APIs
+
+**Tech Stack**
+
+React • Node.js • Express • MySQL
+
+---
+
+## 🛡 Smart Detection of Malicious Emails & URLs
+
+✔ Machine Learning
+
+✔ NLP
+
+✔ URL Classification
+
+✔ Email Threat Detection
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saiteja5501&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiteja5501&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -62,7 +122,27 @@ Become a Software Engineer building enterprise applications.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Saiteja5501&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Saiteja5501&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiteja5501&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saiteja5501&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -70,13 +150,13 @@ Become a Software Engineer building enterprise applications.
 
 # 🏆 Certifications
 
-🏅 Salesforce AI Associate
+🏅 Salesforce Certified AI Associate
 
 🏅 Automation Anywhere RPA Professional
 
-🏅 Red Hat
+🏅 Red Hat Certified Enterprise Application Developer
 
-🏅 Aviatrix
+🏅 Aviatrix Certified Engineer
 
 ---
 
@@ -84,15 +164,15 @@ Become a Software Engineer building enterprise applications.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://YOUR-PORTFOLIO-LINK">
 <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -100,8 +180,22 @@ Become a Software Engineer building enterprise applications.
 
 ---
 
+# 💡 Fun Fact
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
+
+If you like my work, don't forget to ⭐ my repositories.
 
 </p>
